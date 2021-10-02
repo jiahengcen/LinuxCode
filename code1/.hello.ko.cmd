@@ -1,0 +1,1 @@
+cmd_/home/huanglong/Learn/code1/hello.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/huanglong/Learn/code1/hello.ko /home/huanglong/Learn/code1/hello.o /home/huanglong/Learn/code1/hello.mod.o;  true
