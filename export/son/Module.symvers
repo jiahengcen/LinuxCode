@@ -1,0 +1,4 @@
+0x048ae06f	show_version_code	/home/huanglong/Learn/LinuxCode/export/father/module_super	EXPORT_SYMBOL	
+0x9c5ccdd1	version_code	/home/huanglong/Learn/LinuxCode/export/father/module_super	EXPORT_SYMBOL	
+0x18541b69	show_uid	/home/huanglong/Learn/LinuxCode/export/father/module_super	EXPORT_SYMBOL	
+0x01651df8	uid	/home/huanglong/Learn/LinuxCode/export/father/module_super	EXPORT_SYMBOL	
